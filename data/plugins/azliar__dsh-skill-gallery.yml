@@ -1,0 +1,6 @@
+url: https://github.com/azliar/dsh-skill-gallery
+name: azliar/dsh-skill-gallery
+category: skill
+description:
+  en: 'Skill gallery panel under Automation in the DSH sidebar: every fixed-workflow project skill becomes a card; one click opens a new session with /skill-name and the task instruction already in the composer.'
+  zh: 'DSH 左侧栏「自动化任务」下方的 skill 可视化调用面板：把固定流程的项目技能列成卡片，一键新建会话并把 /技能名 与任务指令预填进输入框。'
